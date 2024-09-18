@@ -1,3 +1,4 @@
+# Alex Harris' Personal Profile
 ## Hello, this is the README for my github profile
 
 - I am a beginner programmer in HTML and CSS.
